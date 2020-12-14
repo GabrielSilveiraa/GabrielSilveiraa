@@ -7,7 +7,6 @@ I'm a software engineer, who works with iOS development since 2015.
 - 🔭 Current project [The Outnet](https://apps.apple.com/gb/app/the-outnet-designer-outlet/id421387883)
 - 🌱 Learning **SwiftUI, Combine and Vapor (Swift Server Side)**
 - 🤔 Looking forward to working more on Open Source projects and helping the community.
--->
 
 ### 📩 How to reach me:
 
