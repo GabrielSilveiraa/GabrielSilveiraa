@@ -5,7 +5,7 @@ I'm a software engineer, who works with iOS development since 2015.
 
 - 🇧🇷 Brazillian 
 - 📍 Living in **Porto 🇵🇹**
-- 🔭 Current project [MR PORTER](https://apps.apple.com/gb/app/mr-porter-designer-clothing/id481673241) and [NET-A-PORTER] (https://apps.apple.com/gb/app/net-a-porter-designer-clothes/id318597939)
+- 🔭 Current project [MR PORTER](https://apps.apple.com/gb/app/mr-porter-designer-clothing/id481673241) and [NET-A-PORTER](https://apps.apple.com/gb/app/net-a-porter-designer-clothes/id318597939)
 - 🌱 Learning **SwiftUI, Combine and Vapor (Swift Server Side)**
 - 🤔 Looking forward to working more on Open Source projects and helping the community.
 
