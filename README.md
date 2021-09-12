@@ -13,7 +13,6 @@ I'm a software engineer, who works with iOS development since 2015.
 
 - My email address is *gabi.msilveira@gmail.com*
 
-[![Twitter Badge](https://img.shields.io/badge/-@gsilveira1995-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gsilveira1995)](https://twitter.com/gsilveira1995) 
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielSilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandasilveira/)](https://www.linkedin.com/in/gabrielmirandasilveira/) [
 ![Medium Badge](https://img.shields.io/badge/-@gabrielmsilveira-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gabrielmsilveira/)](https://medium.com/@gabrielmsilveira/)
 
