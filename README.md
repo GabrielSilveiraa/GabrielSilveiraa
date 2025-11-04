@@ -4,8 +4,8 @@ I'm a software engineer, who works with iOS development since 2015.
 ## 👨🏼‍💻 About me
 
 - 🇧🇷 Brazillian 
-- 📍 Living in **Barcelona 🇪🇸**
-- 🔭 Current project [Wallapop](https://apps.apple.com/es/app/wallapop-compra-y-vende/id692753615)
+- 📍 Living in **Porto Alegre 🇧🇷**
+- 🔭 Current project [Grid](https://apps.apple.com/us/app/grid-payboost/id1473180914)
 
 ### 📩 How to reach me:
 
